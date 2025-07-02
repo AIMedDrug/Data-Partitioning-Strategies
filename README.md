@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Evaluating the Impact of Data Partitioning Strategies on Predicting Mutation Effect on Binding Free Energy Changes: What Accuracy Potential Can We Achieve?
 
 ## Overview
@@ -135,3 +136,6 @@ python All_X-_RF_P00520_P00519_Calculate_accuracy_auc_RMSE_plot.py
 * **Scripts are fully parameterized to facilitate batch runs and repeated trials.**
 
 
+=======
+# Data-Partitioning-Strategies
+>>>>>>> f55a8523da514516e173f20ddcd7df6b8501afad

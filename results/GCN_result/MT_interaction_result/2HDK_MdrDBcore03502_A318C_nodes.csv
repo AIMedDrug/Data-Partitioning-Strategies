@@ -1,0 +1,16 @@
+node_id,element,label,x,y,z
+P_0,protein,CE1,11.79,1.521,21.007
+P_1,protein,CZ,12.531,0.816,21.988
+P_2,protein,OH,13.033,1.476,23.092
+P_3,protein,O,15.23,0.34,23.673
+P_4,protein,CB,15.895,-0.405,18.535
+P_5,protein,CG2,15.151,0.631,19.286
+SM_0,small_molecule,C1,18.019,8.091,21.068
+SM_1,small_molecule,O1,17.65,8.608,22.16
+SM_2,small_molecule,O2,18.923,8.64,20.429
+SM_3,small_molecule,C2,17.445,6.694,20.553
+SM_4,small_molecule,O3,18.108,5.997,19.691
+SM_5,small_molecule,C3,16.086,6.205,21.06
+SM_6,small_molecule,C4,15.923,4.669,21.063
+SM_7,small_molecule,C5,15.414,4.228,22.425
+SM_8,small_molecule,C6,14.94,4.245,19.961
